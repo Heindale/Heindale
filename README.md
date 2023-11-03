@@ -53,7 +53,9 @@
 
 <h3 align="left">Statistics</h3>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+SHOW_DAYS_OF_WEEK
+<!--END_SECTION:waka-->
 
 ###
 

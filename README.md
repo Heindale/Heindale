@@ -134,4 +134,4 @@ Python                   1 repo              ██░░░░░░░░░�
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heindaledev)
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/heindale)
 [![Mail](https://img.shields.io/badge/Email-red?&style=for-the-badge&logo=Mail.Ru)](mailto:example@ex.com)
-[![WebSite](https://img.shields.io/badge/-heindale-green?style=for-the-badge)](http://heindale.is-a.dev/)
+[![WebSite](https://img.shields.io/badge/-website-green?style=for-the-badge)](http://heindale.is-a.dev/)

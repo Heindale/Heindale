@@ -98,17 +98,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C#                       2 hrs 36 mins       ████████████████████████░   94.36 % 
-Binary                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HomewOurK                2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 

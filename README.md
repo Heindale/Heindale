@@ -53,7 +53,7 @@
 <h3 align="left">Statistics</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,6 +62,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 191 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 

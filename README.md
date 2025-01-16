@@ -98,16 +98,18 @@ Sunday                   198 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    12 mins             ██████████████░░░░░░░░░░░   56.08 % 
+C#                       5 mins              ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Binary                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minemanager              21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 

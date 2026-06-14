@@ -71,6 +71,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                498 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+🌆 Daytime                892 commits         ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+🌃 Evening                1411 commits        ████████████░░░░░░░░░░░░░   46.57 % 
+🌙 Night                  229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   529 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Tuesday                  324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Wednesday                517 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Thursday                 347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Friday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Saturday                 441 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Sunday                   441 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
